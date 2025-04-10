@@ -1,0 +1,13 @@
+A testing repo for mic and audio.
+
+Hardware:
+- ESP32 NODECUM 32S
+- INMP441 (Mic)
+- MAX98357A (Amp)
+
+This repository includes the next projects:
+- Listen test (MIC -> AUDIO SERVER)
+- Megaphone (MIC -> AUDIO)
+- Audio server that uses websocket to be connected by Arduino
+
+Done in platform.io
