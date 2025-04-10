@@ -32,6 +32,3 @@ build/
 .arduino/
 
 *.ino.cpp
-
-.test
-test
